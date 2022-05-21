@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string-array name="nameList">
+        <item name="name">Shrawan</item>
+        <item name="name">Arman</item>
+        <item name="name">Ansar</item>
+        <item name="name">Rahil</item>
+        <item name="name">Guddu</item>
+        <item name="name">Vikash</item>
+        <item name="name">Chanchal</item>
+        <item name="name">Sudish</item>
+        <item name="name">Akash</item>
+        <item name="name">Nehal</item>
+        <item name="name">Raftar</item>
+    </string-array>
+</resources>
